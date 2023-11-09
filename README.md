@@ -1,6 +1,7 @@
 ### Hello there 👋
 🔭 I’m currently working on: Mailadmin Project (Simple admin for my mailserver) - Blazor WebAssembly APP  
-🌱 I’m currently learning .NET 8 / Blazor/w MudBlazor / C# / GoDot 
+🌱 I’m currently learning .NET 8 / Blazor/w MudBlazor / C# / GoDot
+
 📫 How to reach me: ... well i decide to add this later guyes :)  
   
  ⚡ Fun fact: Did you know that my "Hello there" is from Obi-Wan? No? Me neither....
