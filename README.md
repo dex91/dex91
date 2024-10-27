@@ -1,10 +1,9 @@
 ### Hello there 👋
-🔭 I’m currently working on: Mailadmin Project (Simple admin for my mailserver) - Blazor WebAssembly APP  
-🌱 I’m currently learning .NET 8 / Blazor/w MudBlazor / C# / GoDot
+🔭 I’m currently working on: Trainings (no Project atm)
 
-📫 How to reach me: ... well i decide to add this later guyes :)  
+📫 How to reach me: ben@vdevs.de
   
- ⚡ Fun fact: Did you know that my "Hello there" is from Obi-Wan? No? Me neither....
+⚡ Fun fact: Did you know that my "Hello there" is from Obi-Wan? No? Me neither....
 
 <!--
 **visualNetworks/visualNetworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
